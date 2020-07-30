@@ -1,8 +1,5 @@
 #include <stdio.h>
 
-/* this program reads in data of the average daily temperatures of each of the six great lakes from a .txt file,
-and outputs different findings calculated from the data */
-
 /* function declarations */
 double yearavg (int x);
 void compare (double x);
